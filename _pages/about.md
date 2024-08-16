@@ -24,7 +24,7 @@ I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](h
 My academic journey and professional experiences have predominantly been centered around **Artificial Intelligence** and software development. At *********, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
 
 - [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
-- [Advice for researchers and students by **Michael Ernst from University of Washington**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
+- [Advice for researchers and students by **Michael Ernst from UW**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
 
 
 **Research Interests**
