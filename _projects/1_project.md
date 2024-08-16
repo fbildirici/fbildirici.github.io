@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Podcast 
+description: Üretim Bandı
+img: assets/img/spoticard.png
 importance: 1
 category: work
 related_publications: true
@@ -16,9 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: Üretim Bandı Teknik Podcast
+    description: Teknik: Havelsan | Fatih Bildirici – Standartlara Uygun Yazılım Geliştirme.
+    img: /assets/img/spoticard.png
     ---
 
 <div class="row">
