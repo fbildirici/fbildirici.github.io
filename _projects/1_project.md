@@ -16,22 +16,6 @@ related_publications: true
     img: /assets/img/spoticard.png
     ---
 
-- GUEST
-- Fatih Bildirici: https://www.linkedin.com/in/fatih-bildirici/
-- TALKED ABOUT
-
-(00:00) Start
-(04:43) Software configuration manager
-(09:49) How to look at PR
-(14:24) Rate of change of standards
-(17:50) Rituals and onboarding
-(23:30) Establishing a standard
-(29:47) Auditing standards
-(31:30) What if there were no standards
-(35:00) Quality software
-(38:22) Internal transformation in long-term projects
-(40:20) Technologies used
-(42:25) Start-up or corporate?
 
 
 <div class="row">
