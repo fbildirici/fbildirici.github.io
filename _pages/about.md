@@ -27,13 +27,13 @@ My academic journey and professional experiences have predominantly been centere
 
 **Research Interests**
 
-My **research interests** are predominantly centered around Artificial Intelligence, software development, and emerging trends within these fields, as well as technology-oriented business management. Recently, I have developed a keen interest in automation and the software development life cycle from an AIOps and MLOps perspective. Integrating AI into software processes and exploring innovative methodologies in this realm form the core of my research endeavors. Additionally, I am passionate about the fields of **explainable AI (XAI)** and **responsible AI**, aiming to create transparent and ethical AI systems that can be reliably used in various industries.
+My **research interests** are predominantly centered around **Artificial Intelligence**, software development, and emerging trends within these fields, as well as technology-oriented business management. Recently, I have developed a keen interest in automation and the software development life cycle from an **AIOps and MLOps** perspective. Integrating AI into software processes and exploring innovative methodologies in this realm form the core of my research endeavors. Additionally, I am passionate about the fields of **explainable AI (XAI)** and **responsible AI**, aiming to create transparent and ethical AI systems that can be reliably used in various industries.
 
 **Future Goals and Plans**
 
-1. To become one of the leading researchers in Turkey in the field of Artificial Intelligence.
+1. To become one of the leading researchers in Turkey in the field of **Artificial Intelligence**.
 2. To publish articles in prestigious journals and author at least two books—one focusing on popular science and the other on academic research.
-3. To continue advancing my knowledge and skills in software development, particularly in the areas of AIOps, MLOps, and automation.
+3. To continue advancing my knowledge and skills in software development, particularly in the areas of **AIOps, MLOps,** and automation.
 4. To delve deeper into Computational Social Sciences, a field designed to equip social science students with analytical skills in big data analysis, computer simulations, network analysis, and machine learning.
 5. To contribute to the development of AI and digital skills, enabling the next generation to thrive in an increasingly digital world.
 
