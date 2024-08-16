@@ -1,18 +1,30 @@
 ---
 layout: page
 title: Podcast 
-description: Üretim Bandı
+description: Üretim Bandı-Teknik: Fatih Bildirici
 img: assets/img/spoticard.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+GUEST
+Fatih Bildirici: https://www.linkedin.com/in/fatih-bildirici/
+TALKED ABOUT
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+(00:00) Start
+(04:43) Software configuration manager
+(09:49) How to look at PR
+(14:24) Rate of change of standards
+(17:50) Rituals and onboarding
+(23:30) Establishing a standard
+(29:47) Auditing standards
+(31:30) What if there were no standards
+(35:00) Quality software
+(38:22) Internal transformation in long-term projects
+(40:20) Technologies used
+(42:25) Start-up or corporate?
+
 
     ---
     layout: page
