@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a>Researcher</a>. **PhD(c) in Artificial Intelligence** @AnkaraUniversity & ______
 
 profile:
   align: right
