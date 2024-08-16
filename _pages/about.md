@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 **About Me**
 
-I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems from [Ankara Yıldırım Beyazıt University](https://www.aybu.edu.tr/sbe/tr), and an MA in Science and Technology Studies in [Ankara University]. Currently, I work as a **Configuration and Transformation Orchestrator** at [***********](https://www.******.com/).
+I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems, and an MA in Science and Technology Studies. Currently, I work as a **Configuration and Transformation Orchestrator** at [TobeIdentified](https://www.tobeidentified.com/).
 
-My academic journey and professional experiences have predominantly been centered around Artificial Intelligence and software development. At ASELSAN, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
+My academic journey and professional experiences have predominantly been centered around **Artificial Intelligence** and software development. At *********, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
 
 
 **Research Interests**
