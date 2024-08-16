@@ -8,9 +8,17 @@ category: work
 related_publications: true
 ---
 
-GUEST
-Fatih Bildirici: https://www.linkedin.com/in/fatih-bildirici/
-TALKED ABOUT
+
+    ---
+    layout: page
+    title: Üretim Bandı Teknik Podcast
+    description: Teknik: Havelsan | Fatih Bildirici – Standartlara Uygun Yazılım Geliştirme.
+    img: /assets/img/spoticard.png
+    ---
+
+- GUEST
+- Fatih Bildirici: https://www.linkedin.com/in/fatih-bildirici/
+- TALKED ABOUT
 
 (00:00) Start
 (04:43) Software configuration manager
@@ -25,13 +33,6 @@ TALKED ABOUT
 (40:20) Technologies used
 (42:25) Start-up or corporate?
 
-
-    ---
-    layout: page
-    title: Üretim Bandı Teknik Podcast
-    description: Teknik: Havelsan | Fatih Bildirici – Standartlara Uygun Yazılım Geliştirme.
-    img: /assets/img/spoticard.png
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
