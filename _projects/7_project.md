@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Podcast Open Source Artificial Intelligence An Approach to Responsible AI Development
-description: Podcast de Reflektif Sosyal Bilimler Dergisi
+title: Podcast de Reflektif Sosyal Bilimler Dergisi
+description: Podcast Open Source Artificial Intelligence An Approach to Responsible AI Development 
 img: assets/img/reflektif.png
 importance: 1
 category: media
