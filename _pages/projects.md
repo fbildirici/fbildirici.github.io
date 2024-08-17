@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 🚀 Links that expand your universe with everything about me, from passion projects to the communities I love and the things that make my world spin. 🌌
 nav: true
 nav_order: 3
 display_categories: [work, media]
