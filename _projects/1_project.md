@@ -4,7 +4,7 @@ title: Podcast
 description: Üretim Bandı Teknik Fatih Bildirici
 img: assets/img/spoticard.png
 importance: 1
-category: fun
+category: media
 related_publications: true
 ---
 
