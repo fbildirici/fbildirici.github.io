@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Ankara University",
+      "location": "Ankara, Turkiye",
+      "url": "http://www.ankara.edu.tr",
+      "area": "Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-01-01",
+      "endDate": "2028-01-01",
+      "score": "4.00",
+      "courses": ["Artificial Intelligence"]
     }
   ],
   "awards": [
