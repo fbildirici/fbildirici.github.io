@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Fatih Bildirici",
+    "label": "AI & Software Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fbildirici@ankara.edu.tr",
+    "phone": "(90) ***-********",
+    "url": "https://fbildirici.github.io",
+    "summary": "AI and software researcher focused on integrating advanced machine learning into business systems for innovation and optimization.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Fatih Bildirici",
+        "url": "https://x.com/FatihBildiricii"
       }
     ]
   },
