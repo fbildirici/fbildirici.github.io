@@ -2,7 +2,7 @@
 layout: page
 title: Beyond Academia
 permalink: /beyondacademia/
-description: 🚀 Links that expand universe with everything about me, from passion projects to the communities I love and the things that make my world spin.
+description: I am a seasoned professional who combines academic rigor with deep sectoral experience to drive innovation and entrepreneurship. My journey spans managing innovation projects at HAVELSAN, leading digital transformation efforts, and spearheading corporate entrepreneurship programs. Through prestigious programs like the Hamdi Ulukaya Initiative and the Entrepreneurship Foundation, I have sharpened my skills and expanded my networks, resulting in impactful ventures, including securing investment in Zorlu Holding's Corporate Entrepreneurship Competition and founding startups in the gig economy and education technology sectors. As a mentor and board member for blockchain and SaaS startups, I am committed to nurturing entrepreneurial thinking in the next generation of business leaders. As a Future Innovation Leaders fellow, I continue to push the boundaries of what's possible in the innovation ecosystem.
 nav: true
 nav_order: 3
 display_categories: [work, media]
