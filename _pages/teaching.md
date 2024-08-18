@@ -9,9 +9,34 @@ nav_order: 6
 
 #### Entrepreneurship & Innovation
 
-I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems, and an MA in Science and Technology Studies. Currently, I work as a **Configuration and Transformation Orchestrator** at [TobeIdentified](https://www.tobeidentified.com/).
+### Entrepreneurship & Innovation
 
-My academic journey and professional experiences have predominantly been centered around **Artificial Intelligence** and software development. At *********, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
+My journey in entrepreneurship and innovation spans founding startups, leading corporate initiatives, and mentoring future leaders, with a focus on EdTech, the gig economy, and cutting-edge technology.
 
-- [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
-- [Advice for researchers and students by **Michael Ernst from UW**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
+- **Hamdi Ulukaya Girişimi - Fellow**  
+  Developed leadership and entrepreneurship skills through the prestigious fellowship program.
+
+- **Girişimcilik Vakfı - Fellow**  
+  Gained deep insights and network connections in the startup ecosystem.
+
+- **Zorlu Holding Kurumiçi Girişimcilik Programı Parlak bi Fikir - Intrapreneur**  
+  Secured funding and led intrapreneurial projects within Zorlu Holding.
+
+- **Future Innovation Leaders - Fellow**  
+  Honed innovation leadership skills through this selective fellowship.
+
+- **McKinsey Forward - Country Lead & Research Fellow**  
+  Led initiatives and research focused on innovation and leadership.
+
+- **Founder of Two Pre-Seed Funded Startups in EdTech and Gig Economy**  
+  Launched and grew two successful startups with pre-seed investments.
+
+- **Entrepreneurship Mentorship with TÜBİTAK and Universities**  
+  Mentored startups and innovators within TÜBİTAK and university programs.
+
+- **HAVELSAN - R&D and Innovation Manager, Entrepreneurship Center Specialist**  
+  Led R&D and innovation efforts, driving entrepreneurial initiatives.
+
+- **Board Membership and Advisory Roles in Startups (Blockchain and Gig Economy)**  
+  Provided strategic guidance and insights as a board member and advisor.
+
