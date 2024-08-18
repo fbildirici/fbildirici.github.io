@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /outreach/
+title: outreach
+description: Explore my entrepreneurial and software-driven ventures beyond academia.
 nav: true
 nav_order: 6
 ---
