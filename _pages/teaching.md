@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-#### About Me
+#### Entrepreneurship & Innovation
 
 I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems, and an MA in Science and Technology Studies. Currently, I work as a **Configuration and Transformation Orchestrator** at [TobeIdentified](https://www.tobeidentified.com/).
 
