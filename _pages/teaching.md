@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### About Me
 
-Organize your courses by years, topics, or universities, however you like!
+I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems, and an MA in Science and Technology Studies. Currently, I work as a **Configuration and Transformation Orchestrator** at [TobeIdentified](https://www.tobeidentified.com/).
+
+My academic journey and professional experiences have predominantly been centered around **Artificial Intelligence** and software development. At *********, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
+
+- [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
+- [Advice for researchers and students by **Michael Ernst from UW**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
