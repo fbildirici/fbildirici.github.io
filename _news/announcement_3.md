@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I immersed myself in cutting-edge **AI and Deep Learning** techniques at **Bilimler Köyü**, mastering their mathematical foundations. :rocket: :books: :sparkles:
+I immersed myself in cutting-edge **Yapay Öğrenmenin Temelleri (Foundations of Artificial Learning)** techniques at **Bilimler Köyü**, mastering their mathematical foundations. :rocket: :books: :sparkles:
