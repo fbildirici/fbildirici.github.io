@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-#### Entrepreneurship & Innovation
-
 ### Entrepreneurship & Innovation
 
 My journey in entrepreneurship and innovation spans founding startups, leading corporate initiatives, and mentoring future leaders, with a focus on EdTech, the gig economy, and cutting-edge technology.
