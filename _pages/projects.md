@@ -1,7 +1,7 @@
 ---
 layout: page
-title: beyondacademia
-permalink: /beyondacademia/
+title: talks&projects
+permalink: /talks&projects/
 description: I am a seasoned professional with a strong academic foundation and extensive experience in innovation and entrepreneurship. From managing projects at HAVELSAN to leading digital transformation and securing investments in corporate competitions, I turn ideas into impactful ventures. With expertise honed through the Hamdi Ulukaya Initiative and the Entrepreneurship Foundation, I mentor and guide the next generation of business leaders. Let's push the boundaries of innovation and shape the future together.
 nav: true
 nav_order: 3
