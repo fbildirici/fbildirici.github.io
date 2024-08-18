@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /entrepreneurship/
 description: 🚀 Links that expand universe with everything about me, from passion projects to the communities I love and the things that make my world spin.
 nav: true
 nav_order: 3
