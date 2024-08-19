@@ -172,7 +172,7 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: #
     rss_url: #
-  - name: Sam Altman Blog
+  - name: Sam Altman Blog Page
     posts:
       - url: https://blog.samaltman.com/how-to-be-successful
         published_date: 2019-01-25
