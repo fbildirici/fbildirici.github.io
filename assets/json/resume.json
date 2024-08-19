@@ -163,15 +163,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence & Software Development",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Software Development",
+        "Software Product Development & Management",
+        "Artificial Intelligence",
+        "Machine & Deep Learning",
+        "AIOps & MLOps",
+        "Agile Software Development"
       ]
     }
   ],
