@@ -98,18 +98,18 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Open-Source AI: An Approach to Responsible Artificial Intelligence Development",
+      "publisher": "Reflektif Journal",
+      "releaseDate": "2024-02-15",
+      "url": "https://natrohosted4.bilgi.edu.tr/index.php/reflektif/article/view/283s",
+      "summary": "This  paper  comprehensively  addresses  the  risks,  problems,  and  ethical  issues  for  the  responsible  development  of  artificial  intelligence  (AI) technologies"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Using Agile Story Points And Game Theory Together: Better Software Planning And Development In Agile Software Development",
+      "publisher": "IMISC2023",
+      "releaseDate": "2023-10-18",
+      "url": "https://2023.imisc.net/tr/imisc23_bildiri_ozet_kitapcigi.pdf",
+      "summary": "This study employs a comprehensive review, integrating key concepts from Agile software development, Story Point estimation, and Game Theory."
     }
   ],
   "skills": [
