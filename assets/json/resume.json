@@ -41,8 +41,7 @@
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history."
     }
   ],
   "education": [
@@ -189,12 +188,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Improving Sustainability with Artificial Intelligence",
+      "summary": "Improving Sustainability with Artificial Intelligence leverages AI to drive impactful climate action, optimizing resource use, reducing emissions, and fostering a sustainable future.",
+      "highlights": ["Sustainable Development", "Artificial Intelligence"],
+      "startDate": "2024-08-01",
+      "endDate": "2026-01-01",
+      "url": "https://www.businesscalltoaction.org"
     }
   ]
 }
