@@ -157,20 +157,20 @@
       "name": "Technical",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Software Development",
-        "Software Product Development & Management",
-        "Artificial Intelligence",
-        "Machine & Deep Learning"
+        "Machine Learning & Deep Learning",
+        "Software Product Development & Configuration",
+        "Artificial Intelligence and Explainability",
+        "Agile Methodologies in AI & Software Development"
       ]
     },
     {
       "name": "Personal",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Software Development",
-        "Software Product Development & Management",
-        "Artificial Intelligence",
-        "Machine & Deep Learning"
+        "Comic Books & Board Games",
+        "Yoga & Meditation",
+        "Podcasting & Watching Docs",
+        "Sketching & Playing the Guitar"
       ]
     }
   ],
