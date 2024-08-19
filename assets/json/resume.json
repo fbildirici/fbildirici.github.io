@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Innovation & R&D Center, HAVELSAN",
+      "position": "Lead Software & Innovation Specialist",
+      "url": "https://www.havelsan.com.tr",
+      "startDate": "2021-07-05",
+      "endDate": "2024-09-06",
+      "summary": "Innovating at the intersection of AI, agile, and entrepreneurship management for impactful software solutions.",
+      "highlights": ["Innovation&SoftwareDevelopment"]
     }
   ],
   "volunteer": [
