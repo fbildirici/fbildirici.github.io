@@ -163,15 +163,23 @@
   ],
   "interests": [
     {
-      "name": "Artificial Intelligence & Software Development",
+      "name": "Technical",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Software Development",
         "Software Product Development & Management",
         "Artificial Intelligence",
-        "Machine & Deep Learning",
-        "AIOps & MLOps",
-        "Agile Software Development"
+        "Machine & Deep Learning"
+      ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Software Development",
+        "Software Product Development & Management",
+        "Artificial Intelligence",
+        "Machine & Deep Learning"
       ]
     }
   ],
