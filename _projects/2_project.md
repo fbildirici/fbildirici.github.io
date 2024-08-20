@@ -10,7 +10,7 @@ giscus_comments: true
 
 
 <p align="center">
-  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/token.png" style="width:360px;" />
+  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/token.png" style="width:600px;" />
 </p>
 
 
