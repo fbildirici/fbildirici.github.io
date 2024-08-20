@@ -175,7 +175,7 @@ external_sources:
   - name: Sam Altman Blog Page
     posts:
       - url: https://blog.samaltman.com/how-to-be-successful
-        published_date: 2019-01-25
+        published_date: 2019-01-26
 
 # -----------------------------------------------------------------------------
 # Newsletter
