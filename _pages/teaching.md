@@ -8,8 +8,9 @@ nav_order: 6
 ---
 
 <p align="center">
-  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Group 2.png" style="width:600px;" />
+  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Group 2.png" style="max-width: 100%;" />
 </p>
+
 
 
 ### Entrepreneurship & Innovation
