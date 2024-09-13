@@ -8,9 +8,9 @@ profile:
   image: profile2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Havelsan Innovation Center</p>
-    <p>Research & Development</p>
-    <p>Ankara, Turkiye 06510</p>
+    <p>ASELSAN</p>
+    <p>Ankara University - AI Technologies PhD</p>
+    <p>Ankara, Turkiye 06200</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,9 +19,12 @@ social: true # includes social icons at the bottom of the page
 
 **About Me**
 
-I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Prior to my doctoral studies, I earned an MSc in Management Information Systems, and an MA in Science and Technology Studies. Currently, I work as a **Configuration and Transformation Orchestrator** at [TobeIdentified](https://www.tobeidentified.com/).
+I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Before embarking on my doctoral journey, I earned an MSc in Management Information Systems and an MA in Science and Technology Studies.
 
-My academic journey and professional experiences have predominantly been centered around **Artificial Intelligence** and software development. At *********, I have been involved in various innovative projects that combine AI and digital transformation with cutting-edge solutions. My research interests include AIOps, MLOps, automation, and developing explainable and responsible AI systems. 
+Currently, I serve as a **Configuration and Transformation Orchestrator** at [ASELSAN](https://www.aselsan.com.tr/), where I lead transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
+
+Throughout my academic journey, I've been deeply immersed in AI and software development. At my university, I engaged in groundbreaking projects that fused AI with digital transformation, utilizing cutting-edge solutions. These experiences enriched my understanding and fueled my passion for the field.  My research focuses on Artificial Intelligence and Transformation, AIOps, MLOps, and automation. I'm dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
+
 
 - [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
 - [Advice for researchers and students by **Michael Ernst from UW**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
