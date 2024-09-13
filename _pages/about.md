@@ -23,7 +23,7 @@ I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](h
 
 Currently, I serve as a **Configuration and Transformation Orchestrator** at [ASELSAN](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
 
-Throughout my academic career, I have been deeply engaged in artificial intelligence and software development, participating in projects that integrate AI with digital transformation. These experiences have enriched my expertise and fueled my passion for the field. My research focuses on artificial intelligence and transformation, AIOps, MLOps, and automation. I am dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
+Throughout my academic career, I have been deeply engaged in **artificial intelligence and software development**, participating in projects that integrate AI with digital transformation. These experiences have enriched my expertise and fueled my passion for the field. My research focuses on *artificial intelligence and transformation, AIOps, MLOps, and automation*. I am dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
 
 
 - [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
