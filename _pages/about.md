@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Before embarking on my doctoral journey, I earned an MSc in Management Information Systems and an MA in Science and Technology Studies.
 
-Currently, I serve as a **Configuration and Transformation Orchestrator** at [ASELSAN](https://www.aselsan.com.tr/), where I lead transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
+I currently serve as a **Configuration and Transformation Orchestrator** at [ASELSAN](https://www.aselsan.com.tr/) and collaborate with several startups, contributing to transformative projects in AI and digital transformation.
 
-Throughout my academic journey, I've been deeply immersed in AI and software development. At my university, I engaged in groundbreaking projects that fused AI with digital transformation, utilizing cutting-edge solutions. These experiences enriched my understanding and fueled my passion for the field.  My research focuses on Artificial Intelligence and Transformation, AIOps, MLOps, and automation. I'm dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
+Throughout my academic career, I have been deeply engaged in artificial intelligence and software development, participating in projects that integrate AI with digital transformation. These experiences have enriched my expertise and fueled my passion for the field. My research focuses on artificial intelligence and transformation, AIOps, MLOps, and automation. I am dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
 
 
 - [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
