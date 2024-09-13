@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-<---
+<!--
 <p align="center">
   <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/group3.png" style="max-width: 100%;" />
 </p>
---->
+-->
 
 ### Entrepreneurship & Innovation
 My journey in entrepreneurship and innovation spans founding startups, leading corporate initiatives, and mentoring future leaders, with a focus on EdTech, the gig economy, and cutting-edge technology.
