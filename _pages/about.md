@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a **PhD** candidate in **Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/). Before embarking on my doctoral journey, I earned an MSc in Management Information Systems and an MA in Science and Technology Studies.
 
-Currently, I serve as a **Configuration and Transformation Orchestrator** at [ASELSAN](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
+Currently, I serve as a **Configuration and Transformation Orchestrator** at [**ASELSAN**](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
 
 Throughout my academic career, I have been deeply engaged in **artificial intelligence and software development**, participating in projects that integrate AI with digital transformation. These experiences have enriched my expertise and fueled my passion for the field. My research focuses on *artificial intelligence and transformation, AIOps, MLOps, and automation*. I am dedicated to developing explainable and responsible AI systems, emphasizing transparency and ethical integration into society.
 
