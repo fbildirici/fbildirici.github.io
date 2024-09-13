@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ASELSAN</p>
-    <p>Ankara University - AI Technologies PhD</p>
+    <p>Ankara University - Artificial Intelligence PhD</p>
     <p>Ankara, Turkiye 06200</p>
 
 news: true # includes a list of news items
