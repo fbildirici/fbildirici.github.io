@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. You're in My Spot!
 profile:
   align: right
-  image: profile3.png
+  image: citations.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ASELSAN</p>
