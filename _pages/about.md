@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m currently pursuing a **PhD in Artificial Intelligence** at [Ankara University](https://www.ankara.edu.tr/programlar/4/928/4432-2070/), after earning an MSc in **Management Information Systems** and an MA in **Science and Technology Studies**—because why settle for just one field when you can explore multiple?
 
-I work as **Subject Matter Expert in Configuration & Transformation Excellence** at [**ASELSAN**](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
+I work as **Senior Subject Matter Expert** in  [**ASELSAN**](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
 
 My core focus is on **artificial intelligence** and **software development**, with a keen interest in **AIOps**, **MLOps**, and **automation**. I'm dedicated to building **explainable** and **responsible AI systems** that prioritize **transparency** and **ethical integration** into society. Ultimately, I believe in the power of AI to drive positive change—and I’m here to help make that happen.
 
