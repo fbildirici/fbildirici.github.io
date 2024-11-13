@@ -2,79 +2,66 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: assets/img/explanaibleai.jpg
 importance: 3
-category: fun
+category: talks
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# Conference Session: Explainable AI (XAI) Methods – Enhancing Transparency in Artificial Intelligence
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Conference**: AICon0.2  
+**Venue**: Ankara University - YazGit (Artificial Intelligence and Image Processing Club)
+**Session Title**: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
+**Session Overview**: This session provides an overview of Explainable AI (XAI) methods designed to help understand and interpret complex AI models, fostering transparency, trust, and accountability in AI systems. The session will cover the historical evolution of AI, the rise of deep learning and black-box models, and the need for interpretable, transparent systems in various sectors.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Section 1: Introduction to the Evolution of AI
+- **AI Through the Decades**: An overview of AI’s progress, from rule-based systems in the 1950s to the deep learning revolution.
+- **From Simplicity to Complexity**: Transition from early, interpretable models to complex, high-performance deep learning systems.
+- **Current Need for Explainability**: With increasing AI integration, the demand for transparency and interpretability has become critical.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Section 2: What is Explainable AI (XAI)?
+- **Definition of XAI**: Methods and tools designed to make AI models transparent and interpretable.
+- **Why XAI Matters**: Promotes trust, ensures compliance with regulatory requirements, and improves user confidence.
+- **Core Goal**: Allow users to understand how and why an AI system reaches its decisions, particularly in sensitive domains.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Section 3: Overview of XAI Methods
+- **Model-Agnostic vs. Model-Specific Methods**: Introduction to methods that work across various models versus those tailored to specific architectures.
+- **Local vs. Global Explanations**: Differentiating methods that explain individual predictions (local) from those that provide insights into overall model behavior (global).
 
-{% raw %}
+## Section 4: Key Features and Benefits of XAI
+- **Transparency and Trust**: XAI methods make AI decisions more understandable, increasing user trust.
+- **Application Domains**: XAI’s role in sectors such as healthcare, finance, autonomous systems, and security.
+- **Balancing Accuracy and Interpretability**: The trade-off between high-performing but complex models and simpler, more interpretable ones.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Section 5: Popular XAI Techniques
+- **LIME (Local Interpretable Model-Agnostic Explanations)**: Explains individual predictions by approximating the local decision boundary.
+- **SHAP (SHapley Additive exPlanations)**: Distributes feature importance fairly across features using game-theoretic Shapley values.
+- **Grad-CAM (Gradient-weighted Class Activation Mapping)**: Visualizes attention in CNNs for image classification by highlighting critical regions in an image.
+- **LRP (Layer-wise Relevance Propagation)**: Propagates relevance scores backward through layers to identify critical features in deep learning models.
 
-{% endraw %}
+## Section 6: Advantages of XAI in Real-World Applications
+- **Improved User Trust**: Clearer explanations encourage trust among users and stakeholders.
+- **Regulatory Compliance**: Meeting transparency requirements in industries with strict regulations, like finance and healthcare.
+- **Enhanced Model Optimization**: Insight into feature importance can guide model improvements and error mitigation.
+
+## Section 7: Challenges and Limitations of XAI
+- **Computational Overhead**: Some XAI techniques are resource-intensive and may require significant processing power.
+- **Complexity vs. Interpretability**: The ongoing challenge of balancing high model performance with clear interpretability.
+- **Method Selection**: Choosing the right XAI technique based on model type, application, and interpretability needs.
+
+## Section 8: The Future of XAI and Emerging Trends
+- **Developing New Tools**: Advancements in XAI research and more sophisticated visualization tools.
+- **Regulatory Trends**: Increased emphasis on transparency requirements and responsible AI practices in various sectors.
+- **Vision for the Future**: Building AI systems that are not only powerful but also trustworthy, accountable, and ethically responsible.
+
+## Section 9: Conclusion and Q&A
+- **Summary**: XAI is vital for the responsible and trustworthy deployment of AI, especially in high-stakes applications.
+- **Discussion and Q&A**: Open floor for questions and deeper exploration of XAI applications and challenges.
+
+---
+
+Thank you for attending this session on Explainable AI Methods! The aim is to encourage the adoption of transparent AI systems and to foster discussions on how XAI can support ethical AI practices. 
