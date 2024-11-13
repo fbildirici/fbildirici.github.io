@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 
-# Conference Session: Explainable AI (XAI) Methods – Enhancing Transparency in Artificial Intelligence
+# Conference Session: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
 
 **Conference**: AICon0.2  
 **Venue**: Ankara University - YazGit (Artificial Intelligence and Image Processing Club)
