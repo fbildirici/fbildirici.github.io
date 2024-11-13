@@ -8,6 +8,10 @@ category: work
 related_publications: true
 ---
 
+<p align="center">
+  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/explanaibleai.jpg" style="width:600px;" />
+</p>
+
 
 # Conference Session: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
 
