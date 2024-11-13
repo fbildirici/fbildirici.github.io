@@ -4,7 +4,7 @@ title: project 4
 description: another without an image
 img: assets/img/explanaibleai.jpg
 importance: 3
-category: talks
+category: work
 related_publications: true
 ---
 
