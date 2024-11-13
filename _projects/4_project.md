@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demistfying Machine Intelligence The Path to Explanaible Artificial Intelligence 
+title: Demistfying Machine Intelligence
 description: Ankara University AICON20242
 img: assets/img/explanaibleai.jpg
 importance: 3
