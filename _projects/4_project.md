@@ -9,16 +9,17 @@ related_publications: true
 ---
 
 <p align="center">
-  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/explanaibleai.jpg" style="width:600px;" />
+  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/explanaibleai.jpg" style="width:800px;" />
 </p>
 
 
 # Conference Session: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
 
 **Conference**: AICon0.2  
-**Venue**: Ankara University - YazGit (Artificial Intelligence and Image Processing Club)
-**Session Title**: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
+**Venue**: Ankara University - YazGit (Artificial Intelligence and Image Processing Club)  
+**Session Title**: Demystifying Machine Intelligence: The Path to Explainable Artificial Intelligence  
 **Session Overview**: This session provides an overview of Explainable AI (XAI) methods designed to help understand and interpret complex AI models, fostering transparency, trust, and accountability in AI systems. The session will cover the historical evolution of AI, the rise of deep learning and black-box models, and the need for interpretable, transparent systems in various sectors.
+
 
 ---
 
