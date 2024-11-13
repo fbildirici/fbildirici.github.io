@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Demistfying Machine Intelligence: The Path to Explanaible Artificial Intelligence 
+description: Ankara University AICON20242
 img: assets/img/explanaibleai.jpg
 importance: 3
 category: work
