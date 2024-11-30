@@ -28,3 +28,65 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 
 
+<div align="center">
+
+# My Personal Library 📚
+
+---
+
+### <sup>📖</sup> **Books**
+
+| **Title**              | **Author**             | **Genre**         | **Rating**     |
+|:-----------------------:|:----------------------:|:-----------------:|:--------------:|
+| *Sapiens*              | Yuval Noah Harari      | History/Science   | ⭐⭐⭐⭐⭐         |
+| *1984*                 | George Orwell          | Dystopia          | ⭐⭐⭐⭐          |
+| *Crime and Punishment* | Fyodor Dostoevsky      | Classic           | ⭐⭐⭐⭐⭐         |
+
+---
+
+### <sup>🎧</sup> **Podcasts**
+
+| **Name**              | **Host**          | **Topic**          | **Favorite Episode**       |
+|:----------------------:|:-----------------:|:------------------:|:--------------------------:|
+| *Hardcore History*    | Dan Carlin        | History            | Blueprint for Armageddon I |
+| *Radiolab*            | WNYC Studios      | Science/Society    | Colors                     |
+| *Ologies*             | Alie Ward         | Science            | Volcanology with Jess Phoenix |
+
+---
+
+### <sup>🎬</sup> **Movies & TV Shows**
+
+| **Title**            | **Director/Creator**   | **Genre**         | **Rating**     |
+|:---------------------:|:----------------------:|:-----------------:|:--------------:|
+| *Inception*          | Christopher Nolan      | Sci-Fi            | ⭐⭐⭐⭐⭐         |
+| *Breaking Bad*       | Vince Gilligan         | Drama             | ⭐⭐⭐⭐⭐         |
+| *The Office (US)*    | Greg Daniels           | Comedy            | ⭐⭐⭐⭐          |
+
+---
+
+### <sup>🎵</sup> **Music**
+
+| **Album**             | **Artist**            | **Genre**          | **Favorite Track** |
+|:----------------------:|:---------------------:|:------------------:|:------------------:|
+| *Dark Side of the Moon* | Pink Floyd          | Progressive Rock   | Time              |
+| *Kind of Blue*         | Miles Davis          | Jazz               | So What           |
+
+---
+
+### <sup>💡</sup> **Inspiring Quotes**
+
+<blockquote style="font-size: 14px; font-style: italic; border-left: 4px solid #ccc; padding-left: 12px; margin: 10px auto; width: 80%;">
+"Life can only be understood backwards; but it must be lived forwards."  
+— Søren Kierkegaard
+</blockquote>
+
+<blockquote style="font-size: 14px; font-style: italic; border-left: 4px solid #ccc; padding-left: 12px; margin: 10px auto; width: 80%;">
+"Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny."  
+— Lao Tzu
+</blockquote>
+
+---
+
+<sub>*Last Updated: [Date]*</sub>
+
+</div>
