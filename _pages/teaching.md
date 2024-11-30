@@ -28,7 +28,6 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 
 
-<div align="center">
 
 # My Personal Library 📚
 
@@ -89,4 +88,3 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 <sub>*Last Updated: [Date]*</sub>
 
-</div>
