@@ -28,53 +28,48 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 <div style="text-align: center; font-size: 14px;">
 
+<div style="text-align: center; font-size: 14px; font-family: Arial, sans-serif;">
+
 # My Personal Library
 
 ## <small>📖</small> Books
 
-| Book Title | Author | Genre | My Notes |
-|:----------:|:------:|:-----:|:--------:|
-| Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
-| 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
-| Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
+| Cover | Book Title | Author | Genre | My Rating |
+|:-----:|:----------:|:------:|:-----:|:---------:|
+| ![Sapiens](https://example.com/sapiens-cover.jpg) | Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
+| ![1984](https://example.com/1984-cover.jpg) | 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
+| ![Crime and Punishment](https://example.com/crime-punishment-cover.jpg) | Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
 
 ## <small>🎧</small> Podcasts
 
-| Podcast Name | Host | Topic | Favorite Episode |
-|:------------:|:----:|:-----:|:----------------:|
-| Hardcore History | Dan Carlin | History | "Blueprint for Armageddon I" |
-| Radiolab | WNYC Studios | Science/Society | "Colors" |
-| Ologies | Alie Ward | Science | "Volcanology with Jess Phoenix" |
+| Logo | Podcast Name | Host | Topic | Favorite Episode |
+|:----:|:------------:|:----:|:-----:|:----------------:|
+| ![Hardcore History](https://example.com/hardcore-history-logo.jpg) | Hardcore History | Dan Carlin | History | "Blueprint for Armageddon I" |
+| ![Radiolab](https://example.com/radiolab-logo.jpg) | Radiolab | WNYC Studios | Science/Society | "Colors" |
+| ![Ologies](https://example.com/ologies-logo.jpg) | Ologies | Alie Ward | Science | "Volcanology with Jess Phoenix" |
 
 ## <small>🎬</small> Movies & TV Shows
 
-| Title | Director/Creator | Genre | Comment |
-|:-----:|:----------------:|:-----:|:-------:|
-| Inception | Christopher Nolan | Sci-Fi | A mind-bending masterpiece |
-| Breaking Bad | Vince Gilligan | Drama | A modern Greek tragedy |
-| The Office (US) | Greg Daniels | Comedy | Perfect parody of daily office life |
-
-## <small>📰</small> Articles & Blogs
-
-| Title | Author/Source | Topic | Link |
-|:-----:|:-------------:|:-----:|:----:|
-| The Friendship That Made Google Huge | The New Yorker | Technology | [Read](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) |
-| Wait But Why | Tim Urban | Various | [Visit](https://waitbutwhy.com/) |
+| Poster | Title | Director/Creator | Genre | My Rating |
+|:------:|:-----:|:----------------:|:-----:|:---------:|
+| ![Inception](https://example.com/inception-poster.jpg) | Inception | Christopher Nolan | Sci-Fi | ⭐⭐⭐⭐⭐ |
+| ![Breaking Bad](https://example.com/breaking-bad-poster.jpg) | Breaking Bad | Vince Gilligan | Drama | ⭐⭐⭐⭐⭐ |
+| ![The Office](https://example.com/the-office-poster.jpg) | The Office (US) | Greg Daniels | Comedy | ⭐⭐⭐⭐ |
 
 ## <small>🎵</small> Music
 
-| Song/Album | Artist | Genre | Favorite Track |
-|:----------:|:------:|:-----:|:--------------:|
-| Dark Side of the Moon | Pink Floyd | Progressive Rock | "Time" |
-| Kind of Blue | Miles Davis | Jazz | "So What" |
+| Album Art | Song/Album | Artist | Genre | Favorite Track |
+|:---------:|:----------:|:------:|:-----:|:--------------:|
+| ![Dark Side of the Moon](https://example.com/dark-side-moon-cover.jpg) | Dark Side of the Moon | Pink Floyd | Progressive Rock | "Time" |
+| ![Kind of Blue](https://example.com/kind-of-blue-cover.jpg) | Kind of Blue | Miles Davis | Jazz | "So What" |
 
 ## <small>💡</small> Inspiring Quotes
 
-<blockquote style="font-size: 12px;">
+<blockquote style="font-size: 12px; font-style: italic; border-left: 3px solid #ccc; padding-left: 10px; margin-left: 10px;">
 "Life can only be understood backwards; but it must be lived forwards." - Søren Kierkegaard
 </blockquote>
 
-<blockquote style="font-size: 12px;">
+<blockquote style="font-size: 12px; font-style: italic; border-left: 3px solid #ccc; padding-left: 10px; margin-left: 10px;">
 "Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny." - Lao Tzu
 </blockquote>
 
@@ -83,4 +78,3 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 <p style="font-size: 12px;"><em>Last Updated: [Date]</em></p>
 
 </div>
-
