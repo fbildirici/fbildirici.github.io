@@ -32,8 +32,8 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 | Book Title | Author | Genre | My Notes |
 |------------|--------|-------|----------|
-| Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
-| 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
+| **Sapiens, Nexus, Homo Deus** | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
+| The Coming Wave | Mustafa Suleyman | Popular Science | ⭐⭐⭐⭐ |
 | Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
 
 ## 🎧 Podcasts
