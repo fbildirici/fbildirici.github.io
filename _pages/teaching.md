@@ -28,7 +28,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 # My Personal Library
 
-### <sup>📖</sup> Books
+##### <sup>📖</sup> Books
 
 | Title | Author | Genre | Rating |
 |:------|:-------|:------|:-------|
@@ -36,7 +36,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 | 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
 | Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
 
-### <sup>🎧</sup> Podcasts
+#####  <sup>🎧</sup> Podcasts
 
 | Name | Host | Topic | Favorite Episode |
 |:-----|:-----|:------|:-----------------|
@@ -44,7 +44,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 | Radiolab | WNYC Studios | Science/Society | Colors |
 | Ologies | Alie Ward | Science | Volcanology with Jess Phoenix |
 
-### <sup>🎬</sup> Movies & TV Shows
+#####  <sup>🎬</sup> Movies & TV Shows
 
 | Title | Director/Creator | Genre | Rating |
 |:------|:-----------------|:------|:-------|
@@ -52,7 +52,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 | Breaking Bad | Vince Gilligan | Drama | ⭐⭐⭐⭐⭐ |
 | The Office (US) | Greg Daniels | Comedy | ⭐⭐⭐⭐ |
 
-### <sup>🎵</sup> Music
+#####  <sup>🎵</sup> Music
 
 | Album | Artist | Genre | Favorite Track |
 |:------|:-------|:------|:---------------|
@@ -61,7 +61,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-## <small>💡</small> Inspiring Quotes
+#####  <small>💡</small> Inspiring Quotes
 
 <blockquote style="font-size: 12px; font-style: italic; border-left: 3px solid #ccc; padding-left: 10px; margin-left: 10px;">
 "Life can only be understood backwards; but it must be lived forwards." - Søren Kierkegaard
