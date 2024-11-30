@@ -29,11 +29,11 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 
 
-# My Personal Library 📚
+## My Personal Library 📚
 
 ---
 
-### <sup>📖</sup> **Books**
+#### <sup>📖</sup> **Books**
 
 | **Title**              | **Author**             | **Genre**         | **Rating**     |
 |:-----------------------:|:----------------------:|:-----------------:|:--------------:|
@@ -43,7 +43,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-### <sup>🎧</sup> **Podcasts**
+#### <sup>🎧</sup> **Podcasts**
 
 | **Name**              | **Host**          | **Topic**          | **Favorite Episode**       |
 |:----------------------:|:-----------------:|:------------------:|:--------------------------:|
@@ -53,7 +53,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-### <sup>🎬</sup> **Movies & TV Shows**
+#### <sup>🎬</sup> **Movies & TV Shows**
 
 | **Title**            | **Director/Creator**   | **Genre**         | **Rating**     |
 |:---------------------:|:----------------------:|:-----------------:|:--------------:|
@@ -63,7 +63,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-### <sup>🎵</sup> **Music**
+#### <sup>🎵</sup> **Music**
 
 | **Album**             | **Artist**            | **Genre**          | **Favorite Track** |
 |:----------------------:|:---------------------:|:------------------:|:------------------:|
@@ -72,7 +72,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-### <sup>💡</sup> **Inspiring Quotes**
+#### <sup>💡</sup> **Inspiring Quotes**
 
 <blockquote style="font-size: 14px; font-style: italic; border-left: 4px solid #ccc; padding-left: 12px; margin: 10px auto; width: 80%;">
 "Life can only be understood backwards; but it must be lived forwards."  
