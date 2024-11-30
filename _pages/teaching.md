@@ -26,42 +26,40 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 - **HAVELSAN - R&D and Innovation Manager, Entrepreneurship Center Specialist**  : Led R&D and innovation efforts, driving entrepreneurial initiatives.
 - **Board Membership and Advisory Roles in Startups (Blockchain and Gig Economy)**  : Provided strategic guidance and insights as a board member and advisor.
 
-<div style="text-align: center; font-size: 14px;">
-
-<div style="text-align: center; font-size: 14px; font-family: Arial, sans-serif;">
-
 # My Personal Library
 
-## <small>📖</small> Books
+### <sup>📖</sup> Books
 
-| Cover | Book Title | Author | Genre | My Rating |
-|:-----:|:----------:|:------:|:-----:|:---------:|
-| ![Sapiens](https://example.com/sapiens-cover.jpg) | Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
-| ![1984](https://example.com/1984-cover.jpg) | 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
-| ![Crime and Punishment](https://example.com/crime-punishment-cover.jpg) | Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
+| Title | Author | Genre | Rating |
+|:------|:-------|:------|:-------|
+| Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
+| 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
+| Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
 
-## <small>🎧</small> Podcasts
+### <sup>🎧</sup> Podcasts
 
-| Logo | Podcast Name | Host | Topic | Favorite Episode |
-|:----:|:------------:|:----:|:-----:|:----------------:|
-| ![Hardcore History](https://example.com/hardcore-history-logo.jpg) | Hardcore History | Dan Carlin | History | "Blueprint for Armageddon I" |
-| ![Radiolab](https://example.com/radiolab-logo.jpg) | Radiolab | WNYC Studios | Science/Society | "Colors" |
-| ![Ologies](https://example.com/ologies-logo.jpg) | Ologies | Alie Ward | Science | "Volcanology with Jess Phoenix" |
+| Name | Host | Topic | Favorite Episode |
+|:-----|:-----|:------|:-----------------|
+| Hardcore History | Dan Carlin | History | Blueprint for Armageddon I |
+| Radiolab | WNYC Studios | Science/Society | Colors |
+| Ologies | Alie Ward | Science | Volcanology with Jess Phoenix |
 
-## <small>🎬</small> Movies & TV Shows
+### <sup>🎬</sup> Movies & TV Shows
 
-| Poster | Title | Director/Creator | Genre | My Rating |
-|:------:|:-----:|:----------------:|:-----:|:---------:|
-| ![Inception](https://example.com/inception-poster.jpg) | Inception | Christopher Nolan | Sci-Fi | ⭐⭐⭐⭐⭐ |
-| ![Breaking Bad](https://example.com/breaking-bad-poster.jpg) | Breaking Bad | Vince Gilligan | Drama | ⭐⭐⭐⭐⭐ |
-| ![The Office](https://example.com/the-office-poster.jpg) | The Office (US) | Greg Daniels | Comedy | ⭐⭐⭐⭐ |
+| Title | Director/Creator | Genre | Rating |
+|:------|:-----------------|:------|:-------|
+| Inception | Christopher Nolan | Sci-Fi | ⭐⭐⭐⭐⭐ |
+| Breaking Bad | Vince Gilligan | Drama | ⭐⭐⭐⭐⭐ |
+| The Office (US) | Greg Daniels | Comedy | ⭐⭐⭐⭐ |
 
-## <small>🎵</small> Music
+### <sup>🎵</sup> Music
 
-| Album Art | Song/Album | Artist | Genre | Favorite Track |
-|:---------:|:----------:|:------:|:-----:|:--------------:|
-| ![Dark Side of the Moon](https://example.com/dark-side-moon-cover.jpg) | Dark Side of the Moon | Pink Floyd | Progressive Rock | "Time" |
-| ![Kind of Blue](https://example.com/kind-of-blue-cover.jpg) | Kind of Blue | Miles Davis | Jazz | "So What" |
+| Album | Artist | Genre | Favorite Track |
+|:------|:-------|:------|:---------------|
+| Dark Side of the Moon | Pink Floyd | Progressive Rock | Time |
+| Kind of Blue | Miles Davis | Jazz | So What |
+
+---
 
 ## <small>💡</small> Inspiring Quotes
 
@@ -73,8 +71,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 "Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny." - Lao Tzu
 </blockquote>
 
----
 
-<p style="font-size: 12px;"><em>Last Updated: [Date]</em></p>
+<sub>*Last Updated: [Date]*</sub>
 
-</div>
+
