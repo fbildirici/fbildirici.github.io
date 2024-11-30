@@ -26,53 +26,61 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 - **HAVELSAN - R&D and Innovation Manager, Entrepreneurship Center Specialist**  : Led R&D and innovation efforts, driving entrepreneurial initiatives.
 - **Board Membership and Advisory Roles in Startups (Blockchain and Gig Economy)**  : Provided strategic guidance and insights as a board member and advisor.
 
-### 📚 My Personal Library
+<div style="text-align: center; font-size: 14px;">
 
-## 📖 Books
+# My Personal Library
+
+## <small>📖</small> Books
 
 | Book Title | Author | Genre | My Notes |
-|------------|--------|-------|----------|
-| **Sapiens, Nexus, Homo Deus** | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
-| The Coming Wave | Mustafa Suleyman | Popular Science | ⭐⭐⭐⭐ |
+|:----------:|:------:|:-----:|:--------:|
+| Sapiens | Yuval Noah Harari | History/Science | ⭐⭐⭐⭐⭐ |
+| 1984 | George Orwell | Dystopia | ⭐⭐⭐⭐ |
 | Crime and Punishment | Fyodor Dostoevsky | Classic | ⭐⭐⭐⭐⭐ |
 
-## 🎧 Podcasts
+## <small>🎧</small> Podcasts
 
 | Podcast Name | Host | Topic | Favorite Episode |
-|--------------|------|-------|------------------|
+|:------------:|:----:|:-----:|:----------------:|
 | Hardcore History | Dan Carlin | History | "Blueprint for Armageddon I" |
 | Radiolab | WNYC Studios | Science/Society | "Colors" |
-| Ologies | Alie Ward | Science | "Volcanology (VOLCANOES) with Jess Phoenix" |
+| Ologies | Alie Ward | Science | "Volcanology with Jess Phoenix" |
 
-## 🎬 Movies & TV Shows
+## <small>🎬</small> Movies & TV Shows
 
 | Title | Director/Creator | Genre | Comment |
-|-------|------------------|-------|---------|
+|:-----:|:----------------:|:-----:|:-------:|
 | Inception | Christopher Nolan | Sci-Fi | A mind-bending masterpiece |
 | Breaking Bad | Vince Gilligan | Drama | A modern Greek tragedy |
 | The Office (US) | Greg Daniels | Comedy | Perfect parody of daily office life |
 
-## 📰 Articles & Blogs
+## <small>📰</small> Articles & Blogs
 
 | Title | Author/Source | Topic | Link |
-|-------|---------------|-------|------|
-| The Friendship That Made Google Huge | The New Yorker | Technology | [Click to read](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) |
-| Wait But Why | Tim Urban | Various | [Go to blog](https://waitbutwhy.com/) |
+|:-----:|:-------------:|:-----:|:----:|
+| The Friendship That Made Google Huge | The New Yorker | Technology | [Read](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) |
+| Wait But Why | Tim Urban | Various | [Visit](https://waitbutwhy.com/) |
 
-## 🎵 Music
+## <small>🎵</small> Music
 
 | Song/Album | Artist | Genre | Favorite Track |
-|------------|--------|-------|----------------|
+|:----------:|:------:|:-----:|:--------------:|
 | Dark Side of the Moon | Pink Floyd | Progressive Rock | "Time" |
 | Kind of Blue | Miles Davis | Jazz | "So What" |
 
-## 💡 Inspiring Quotes
+## <small>💡</small> Inspiring Quotes
 
-> "Life can only be understood backwards; but it must be lived forwards." - Søren Kierkegaard
+<blockquote style="font-size: 12px;">
+"Life can only be understood backwards; but it must be lived forwards." - Søren Kierkegaard
+</blockquote>
 
-> "Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny." - Lao Tzu
+<blockquote style="font-size: 12px;">
+"Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny." - Lao Tzu
+</blockquote>
 
 ---
 
-*Last Updated: [Date]*
+<p style="font-size: 12px;"><em>Last Updated: [Date]</em></p>
+
+</div>
 
