@@ -58,7 +58,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 | **Title**            | **Director/Creator**   | **Genre**         | **Rating**     |
 |:---------------------:|:----------------------:|:-----------------:|:--------------:|
 | *Matrix*          | The Wachowskis     | Sci-Fi            | ⭐⭐⭐⭐⭐         |
-| *Dune: *       | Denis Villeneuve     | Sci-Fi             | ⭐⭐⭐⭐⭐         |
+| *Dune*       | Denis Villeneuve     | Sci-Fi             | ⭐⭐⭐⭐⭐         |
 | *The Big Bang Theory*    | Greg Daniels           | Comedy            | ⭐⭐⭐⭐⭐         |
 
 ---
