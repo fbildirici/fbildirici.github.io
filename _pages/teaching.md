@@ -57,9 +57,9 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 | **Title**            | **Director/Creator**   | **Genre**         | **Rating**     |
 |:---------------------:|:----------------------:|:-----------------:|:--------------:|
-| *Inception*          | Christopher Nolan      | Sci-Fi            | ⭐⭐⭐⭐⭐         |
-| *Breaking Bad*       | Vince Gilligan         | Drama             | ⭐⭐⭐⭐⭐         |
-| *The Office (US)*    | Greg Daniels           | Comedy            | ⭐⭐⭐⭐          |
+| *Matrix*          | The Wachowskis     | Sci-Fi            | ⭐⭐⭐⭐⭐         |
+| *Dune:*       | Denis Villeneuve     | Sci-Fi             | ⭐⭐⭐⭐⭐         |
+| *The Big Bang Theory*    | Greg Daniels           | Comedy            | ⭐⭐⭐⭐⭐         |
 
 ---
 
