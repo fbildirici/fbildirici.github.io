@@ -37,9 +37,9 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 | **Title**              | **Author**             | **Genre**         | **Rating**     |
 |:-----------------------:|:----------------------:|:-----------------:|:--------------:|
-| *Sapiens*              | Yuval Noah Harari      | History/Science   | ⭐⭐⭐⭐⭐         |
-| *1984*                 | George Orwell          | Dystopia          | ⭐⭐⭐⭐          |
-| *Crime and Punishment* | Fyodor Dostoevsky      | Classic           | ⭐⭐⭐⭐⭐         |
+| *Sapiens & Nexus*              | Yuval Noah Harari      | History/Science   | ⭐⭐⭐⭐⭐         |
+| *Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World*                 | Cade Metz          | Science          | ⭐⭐⭐⭐⭐         |
+| *The Coming Wave* | Mustafa Suleyman      | Popular Science           | ⭐⭐⭐⭐⭐         |
 
 ---
 
