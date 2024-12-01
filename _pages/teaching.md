@@ -63,7 +63,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ---
 
-#### <sup>🎵</sup> **Music**
+###### <sup>🎵</sup> **Music**
 
 | **Album**             | **Artist**            | **Genre**          | **Favorite Track** |
 |:----------------------:|:---------------------:|:------------------:|:------------------:|
