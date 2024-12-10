@@ -35,7 +35,7 @@ This presentation explores the historical evolution, foundational concepts, and 
 
 ---
 
-**📍 Venue:** Ankara Yıldırım Beyazıt University  
+**📍 Venue:** Ankara Yıldırım Beyazıt University Campus  
 **🗓️ Date:** [13.12.2024]  
 **⏰ Time:** [14:00]  
 
