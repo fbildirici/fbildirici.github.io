@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 <p align="center">
-  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/aybu.jpg" style="width:800px;" />
+  <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/aybu.png" style="width:800px;" />
 </p>
 
 
