@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AYBU BILTEK AI Branch
-description: Decoding Intelligence: Foundations and Applications of Machine Learning and Deep Learning Talk
-img:
+description: Decoding Intelligence Foundations and Applications of Machine Learning and Deep Learning Talk
+img: assets/img/aybu.png
 importance: 4
 category: work
 related_publications: true
