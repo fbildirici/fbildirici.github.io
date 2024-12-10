@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: AYBU BILTEK - AI Branch
+description: Decoding Intelligence: Foundations and Applications of Machine Learning and Deep Learning Talk
 img:
 importance: 4
 category: work
