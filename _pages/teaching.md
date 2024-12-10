@@ -67,8 +67,9 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 | **Album**             | **Artist**            | **Genre**          | **Favorite Track** |
 |:----------------------:|:---------------------:|:------------------:|:------------------:|
-| *Dark Side of the Moon* | Pink Floyd          | Progressive Rock   | Time              |
-| *Kind of Blue*         | Miles Davis          | Jazz               | So What           |
+| *Ben Bugün* | Yalın          | Pop   | Ki Sen              |
+| *Highway 61 Revisited* | Bob Dylan       | Progressive Rock   | Ballad of a Thin Man              |
+| *Tea for the Tillerman*         | Yusuf (Cat Stevens)        | Folk, Pop               | Wild World           |
 
 ---
 
