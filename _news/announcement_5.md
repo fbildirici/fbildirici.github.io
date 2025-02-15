@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to have presented at **AICon0.2** hosted by **Ankara University’s YazGit (Artificial Intelligence and Image Processing Club)**! 🚀 In my session, **"Demystifying Machine Intelligence: The Path to Explainable AI,"** I shared insights into **Explainable AI (XAI)** techniques that bring transparency and trust to complex AI models. We covered AI’s evolution from simple rule-based systems to today’s powerful black-box models, emphasizing XAI’s essential role in industries that rely on accountable and interpretable AI. 📘✨ 
+Honored to have attended the **Yeni Fikirler Workshop & Winter School** at **Mimar Sinan University**! 🚀 It provided transformative insights into Explainable AI, profoundly reshaping my vision for the future of technology. 📘
