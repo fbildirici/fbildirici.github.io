@@ -11,6 +11,13 @@ category: media
 
 *Where we demystify the inner workings of artificial intelligence and empower you to understand the technology shaping our future.*
 
+# Listen to Our Podcast!
+
+Check out our latest episode on Spotify:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0gjR45gFkQVTnrKeXLlbsU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 ## Overview
 
 **Explain the Explainables** is a podcast dedicated to unraveling the complexities of AI explainability. We explore how advanced AI systems make decisions, reveal the mysteries of the "black box," and discuss why transparency is essential in the age of exponential technological growth.
