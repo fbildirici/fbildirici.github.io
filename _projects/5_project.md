@@ -7,7 +7,7 @@ importance: 3
 category: media
 ---
 
-# Explain the Explainables Podcast
+# Explain the Explainables
 
 *Where we demystify the inner workings of artificial intelligence and empower you to understand the technology shaping our future.*
 
