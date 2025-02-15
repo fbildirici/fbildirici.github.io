@@ -2,7 +2,7 @@
 layout: page
 title: Explain The Explainables Podcast
 description: Explain the Explainables by Fatih Bildirici
-img: assets/img/exp.jpg
+img: assets/img/exp.png
 importance: 3
 category: media
 ---
