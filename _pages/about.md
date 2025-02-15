@@ -23,7 +23,7 @@ I’m currently pursuing a **PhD in Artificial Intelligence** at [Ankara Univers
 
 I work as **Senior Subject Matter Expert** in  [**ASELSAN**](https://www.aselsan.com.tr/), where I imparted transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
 
-My core focus is on **artificial intelligence** and **software development**, with a keen interest in **AIOps**, **MLOps**, and **automation**. I'm dedicated to building **explainable** and **responsible AI systems** that prioritize **transparency** and **ethical integration** into society. Ultimately, I believe in the power of AI to drive positive change—and I’m here to help make that happen.
+My core focus is on **artificial intelligence** and **software development**, with a keen interest in **ExplainableAI**, **AIIntegrationsintoBusiness**, and **InnovationsinAI**. I'm dedicated to building **explainable** and **responsible AI systems** that prioritize **transparency** and **ethical integration** into society. Ultimately, I believe in the power of AI to drive positive change—and I’m here to help make that happen.
 
 - [A Survival Guide to a PhD by **Andrej Karpathy**](https://karpathy.github.io/2016/09/07/phd){:target="\_blank"}
 - [Advice for researchers and students by **Michael Ernst from UW**](https://homes.cs.washington.edu/%7Emernst/advice){:target="\_blank"}
