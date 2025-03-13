@@ -35,41 +35,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
 ###### <sup>📖</sup> **Books**
 
-| **Title**              | **Author**             | **Genre**         | **Rating**     |
-|:-----------------------:|:----------------------:|:-----------------:|:--------------:|
-| *Sapiens & Nexus*              | Yuval Noah Harari      | History/Science   | ⭐⭐⭐⭐⭐         |
-| *Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World*                 | Cade Metz          | Science          | ⭐⭐⭐⭐⭐         |
-| *The Coming Wave* | Mustafa Suleyman      | Popular Science           | ⭐⭐⭐⭐⭐         |
-
----
-
-###### <sup>🎧</sup> **Podcasts**
-
-| **Name**              | **Host**          | **Topic**          | **Favorite Episode**       |
-|:----------------------:|:-----------------:|:------------------:|:--------------------------:|
-| *Hardcore History*    | Dan Carlin        | History            | Blueprint for Armageddon I |
-| *Radiolab*            | WNYC Studios      | Science/Society    | Colors                     |
-| *Ologies*             | Alie Ward         | Science            | Volcanology with Jess Phoenix |
-
----
-
-###### <sup>🎬</sup> **Movies & TV Shows**
-
-| **Title**            | **Director/Creator**   | **Genre**         | **Rating**     |
-|:---------------------:|:----------------------:|:-----------------:|:--------------:|
-| *Matrix*          | The Wachowskis     | Sci-Fi            | ⭐⭐⭐⭐⭐         |
-| *Dune*       | Denis Villeneuve     | Sci-Fi             | ⭐⭐⭐⭐⭐         |
-| *The Big Bang Theory*    | Greg Daniels           | Comedy            | ⭐⭐⭐⭐⭐         |
-
----
-
-###### <sup>🎵</sup> **Music**
-
-| **Album**             | **Artist**            | **Genre**          | **Favorite Track** |
-|:----------------------:|:---------------------:|:------------------:|:------------------:|
-| *Ben Bugün* | Yalın          | Pop   | Ki Sen              |
-| *Highway 61 Revisited* | Bob Dylan       | Progressive Rock   | Ballad of a Thin Man              |
-| *Tea for the Tillerman*         | Yusuf (Cat Stevens)        | Folk, Pop               | Wild World           |
+<iframe width="850" height="1600" src="https://rss.app/embed/v1/list/cxvD8DFBTBAyFKqr" frameborder="0"></iframe>
 
 ---
 
