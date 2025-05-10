@@ -38,22 +38,22 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 <div class="books-grid" style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
-    <img src="/assets/img/books/nexus.jpg" alt="Nexus" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <img src="/assets/img/nexus.jpg" alt="Nexus" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">Sapiens</div>
   </div>
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
-    <img src="/assets/img/books/wave.jpg" alt="The Coming Wave" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <img src="/assets/img/wave.jpg" alt="The Coming Wave" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">The Coming Wave</div>
   </div>
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
-    <img src="/assets/img/books/feynman.png" alt="Surely You’re Joking, Mr. Feynman!" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <img src="/assets/img/feynman.png" alt="Surely You’re Joking, Mr. Feynman!" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">Surely You’re Joking, Mr. Feynman!</div>
   </div>
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
-    <img src="/assets/img/books/hitchhiker.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <img src="/assets/img/hitchhiker.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide</div>
   </div>
 
