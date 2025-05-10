@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FIL Academy 1: Not Quite What You Think—Demystifying AI
+title: FIL Academy 1 Not Quite What You Think—Demystifying AI
 description: Unveiling the real foundations, integration strategies, and practical applications of artificial intelligence in organizations
 img: assets/img/aifil.png
 importance: 4
