@@ -36,46 +36,29 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 ###### <sup>📖</sup> **Books**
 
 <div class="books-grid" style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
-  <figure class="book-item" style="width:150px; text-align:center; margin:0;">
-    <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
-      <img src="/assets/img/books/sapiens.jpg" alt="Sapiens" style="width:100%; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:0.5rem;">
-      <strong>Sapiens</strong><br/>
-      Yuval Noah Harari
-    </figcaption>
-  </figure>
 
-  <figure class="book-item" style="width:150px; text-align:center; margin:0;">
-    <a href="https://www.goodreads.com/book/show/35053336-the-coming-wave" target="_blank">
-      <img src="/assets/img/books/the-coming-wave.jpg" alt="The Coming Wave" style="width:100%; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:0.5rem;">
-      <strong>The Coming Wave</strong><br/>
-      Mustafa Suleyman, Michael Bhaskar
-    </figcaption>
-  </figure>
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/books/sapiens.jpg" alt="Sapiens" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Sapiens</div>
+  </div>
 
-  <figure class="book-item" style="width:150px; text-align:center; margin:0;">
-    <a href="https://www.goodreads.com/book/show/123795.Surely_You_re_Joking_Mr_Feynman_" target="_blank">
-      <img src="/assets/img/books/surely-youre-joking.jpg" alt="Surely You’re Joking, Mr. Feynman!" style="width:100%; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:0.5rem;">
-      <strong>Surely You’re Joking, Mr. Feynman!</strong><br/>
-      Richard P. Feynman
-    </figcaption>
-  </figure>
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/books/the-coming-wave.jpg" alt="The Coming Wave" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">The Coming Wave</div>
+  </div>
 
-  <figure class="book-item" style="width:150px; text-align:center; margin:0;">
-    <a href="https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy" target="_blank">
-      <img src="/assets/img/books/hitchhikers-guide.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
-    </a>
-    <figcaption style="font-size:0.9rem; margin-top:0.5rem;">
-      <strong>The Hitchhiker’s Guide to the Galaxy</strong><br/>
-      Douglas Adams
-    </figcaption>
-  </figure>
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/books/surely-youre-joking.jpg" alt="Surely You’re Joking, Mr. Feynman!" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Surely You’re Joking, Mr. Feynman!</div>
+  </div>
+
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/books/hitchhikers-guide.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide</div>
+  </div>
+
 </div>
+
 
 ---
 
