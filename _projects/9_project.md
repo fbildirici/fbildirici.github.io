@@ -1,80 +1,36 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Otostopçunun Yapay Zeka Rehberi Podcast
+description: Otostopçunun Yapay Zeka Rehberi by Fatih Bildirici PhD(c)
+img: assets/img/otostop.png
+importance: 3
+category: media
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Otostopçunun Yapay Zeka Rehberi
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+*A podcast series inspired by Douglas Adams' "The Hitchhiker's Guide to the Galaxy," helping you navigate the world of artificial intelligence without getting lost.*
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+# Listen to Our Podcast!
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Check out our latest episode on Spotify:
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1rCeqPdviUG61ucnpFDl6n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Overview
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Otostopçunun Yapay Zeka Rehberi** is a podcast that makes complex AI concepts accessible and engaging. Hosted by Fatih Bildirici, this series takes you on a journey through the world of artificial intelligence with humor and clarity.
 
-{% raw %}
+## What You’ll Discover
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **Making Complex Topics Simple:** Break down technical concepts like large language models, AI hallucinations, and recommendation systems in a straightforward manner.
+- **Current and In-Depth Content:** Stay updated with the latest advancements in AI every week.
+- **Sci-Fi and Academy Perspectives Meets Technology:** Enjoy thought-provoking discussions on AI's portrayal in science fiction and its potential impact on the future.
 
-{% endraw %}
+## Join the Movement
+
+Subscribe now and explore the AI universe with a reliable guide by your side. Take confident steps in the tech world with clarity and insight.
+
+*Listen, learn, and make a difference!*
+
+**#DontPanic**
