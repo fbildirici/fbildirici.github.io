@@ -2,7 +2,7 @@
 layout: page
 title: MLOps ile Sürdürülebilir Makine Öğrenmesi Sistemleri
 description: YAZGİG 2025 Ankara University
-img: assets/img/yazgig.jpg
+img: assets/img/yazgig.png
 importance: 3
 category: work
 related_publications: true
