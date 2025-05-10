@@ -53,7 +53,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
   </div>
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
-    <img src="/assets/img/hitchhiker.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <img src="/assets/img/hitchiker.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide</div>
   </div>
 
