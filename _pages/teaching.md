@@ -39,7 +39,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
     <img src="/assets/img/nexus.jpg" alt="Nexus" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
-    <div style="font-size:0.8rem; margin-top:0.3rem;">Sapiens</div>
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Nexus</div>
   </div>
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
@@ -54,7 +54,7 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 
   <div class="book-item" style="text-align:center; width:100px; margin:0;">
     <img src="/assets/img/hitchiker.jpg" alt="The Hitchhiker’s Guide to the Galaxy" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
-    <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide</div>
+    <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide of Galaxy</div>
   </div>
 
 </div>
