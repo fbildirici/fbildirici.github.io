@@ -82,12 +82,12 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
     <div style="font-size:0.8rem; margin-top:0.3rem;">Dune: Butlerian Jihad</div>
   </div>
 
-    <div class="book-item" style="text-align:center; width:100px; margin:0;">
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
     <img src="/assets/img/bullshit.jpg" alt="Bullshit Jobs - David Graeber" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">Bullshit Jobs - David Graeber</div>
   </div>
 
-      <div class="book-item" style="text-align:center; width:100px; margin:0;">
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
     <img src="/assets/img/cosmos.jpg" alt="Cosmos - Carl Sagan" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
     <div style="font-size:0.8rem; margin-top:0.3rem;">Cosmos - Carl Sagan</div>
   </div>
