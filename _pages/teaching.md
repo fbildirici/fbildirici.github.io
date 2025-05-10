@@ -57,6 +57,31 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
     <div style="font-size:0.8rem; margin-top:0.3rem;">The Hitchhiker’s Guide of Galaxy</div>
   </div>
 
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/theworld.jpg" alt="The World I See" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">The World I See</div>
+  </div>
+
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/genesis.jpg" alt="Genesis: Artificial Intelligence, Hope, and the Human Spirit" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Genesis: AI, Hope & Spirit</div>
+  </div>
+
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/cointelligence.jpg" alt="Co-Intelligence: Living and Working with AI" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Co-Intelligence</div>
+  </div>
+
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/theroad.jpg" alt="The Road to Conscious Machines" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Road to Conscious Machines</div>
+  </div>
+
+  <div class="book-item" style="text-align:center; width:100px; margin:0;">
+    <img src="/assets/img/dunebutlearian.jpg" alt="Dune: The Butlerian Jihad" style="width:100%; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+    <div style="font-size:0.8rem; margin-top:0.3rem;">Dune: Butlerian Jihad</div>
+  </div>
+
 </div>
 
 
