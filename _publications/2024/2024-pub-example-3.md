@@ -14,5 +14,5 @@ cover:          /assets/images/covers/cover3.jpg
 authors:
   - Fatih Bildirici
 links:
-  Journal: https://github.com/luost26/academic-homepage
+  Journal: [https://github.com/luost26/academic-homepage](https://avesis.aybu.edu.tr/yayin/501c3950-584a-4926-98ee-ca7bb3392520/open-source-ai-an-approach-to-responsible-artificial-intelligence-development)
 ---
