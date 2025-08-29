@@ -3,9 +3,8 @@ secondary_name: ""
 navbar_name: "Fatih Bildirici"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/ankarauni.png  # Logo is optional
+  name: PhD Student in Artificial Intelligence
 
 
 email: "fatihbildirici.dev@gmail.com"
