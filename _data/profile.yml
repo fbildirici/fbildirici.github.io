@@ -38,13 +38,13 @@ education:
 - name: Massachusetts Institute of Technology
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Artificial Intelligence <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+  date: Feb. 2024 - present
+- name: Ankara Yıldırım Beyazıt University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.S. and MSc in Information Systems
+  date: Sep. 2021 - Jul. 2023
 
 # experience:
 # - name: Peking University
