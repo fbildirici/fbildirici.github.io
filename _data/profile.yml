@@ -43,7 +43,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Ankara University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Artificial Intelligence <br/>
@@ -53,6 +53,7 @@ education:
   logo: /assets/images/badges/PKU_red.png
   position: B.S. and MSc in Information Systems
   date: Sep. 2021 - Jul. 2023
+
 
 # experience:
 # - name: Peking University
