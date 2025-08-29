@@ -51,7 +51,7 @@ education:
 - name: Middle East Technical University
   logo: /assets/images/badges/metu.png
   position: >- 
-  MSc in Cognitive Science
+    MSc in Cognitive Science <br/>
   date: Sep. 2025 - present
 - name: Ankara Yıldırım Beyazıt University
   logo: /assets/images/badges/aybu.png
