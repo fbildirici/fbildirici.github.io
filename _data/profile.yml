@@ -65,6 +65,12 @@ experience:
   position: Research Intern
   date: Sep. 2019 - Jul. 2021
 
+recognition:
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Sep. 2019 - Jul. 2021
+
 awards:
 - name: Award Name 2
   date: 2024
