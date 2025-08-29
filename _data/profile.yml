@@ -22,12 +22,20 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I'm currently pursuing a <strong>PhD in Artificial Intelligence</strong> at <a href="https://www.ankara.edu.tr/programlar/4/928/4432-2070/" target="_blank">Ankara University</a>, after earning an MSc in <strong>Management Information Systems</strong> and an MA in <strong>Science and Technology Studies</strong>—because why settle for just one field when you can explore multiple?
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I work as <strong>Senior Subject Matter Expert</strong> at <a href="https://www.aselsan.com.tr/" target="_blank"><strong>ASELSAN</strong></a>, where I lead transformative projects and initiatives. I also embrace this role in various transformation projects and provide consultancy to startups, collaborating with innovative tech companies specializing in AI and digital transformation.
+  </p>
+  <p>
+    My core focus is on <strong>artificial intelligence</strong> and <strong>software development</strong>, with a keen interest in <strong>Explainable AI</strong>, <strong>AI Integrations into Business</strong>, and <strong>Innovations in AI</strong>. I'm dedicated to building <strong>explainable</strong> and <strong>responsible AI systems</strong> that prioritize <strong>transparency</strong> and <strong>ethical integration</strong> into society. Ultimately, I believe in the power of AI to drive positive change—and I'm here to help make that happen.
+  </p>
+  <p>
+    Recommended reading:
+    <br>
+    - <a href="https://karpathy.github.io/2016/09/07/phd" target="_blank">A Survival Guide to a PhD by <strong>Andrej Karpathy</strong></a>
+    <br>
+    - <a href="https://homes.cs.washington.edu/~mernst/advice" target="_blank">Advice for researchers and students by <strong>Michael Ernst from UW</strong></a>
   </p>
 
 portrait_url: /assets/images/photos/fbildirici.jpg
