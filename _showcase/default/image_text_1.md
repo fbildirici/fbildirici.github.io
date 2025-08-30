@@ -4,13 +4,6 @@ width: 8
 date: 2020-01-12 00:01:00 +0800
 ---
 
----
-show: true
-width: 8
-date: 2025-01-01 00:00:00 +0800
-title: "Collections"
----
-
 <div style="padding:1rem; background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); font-family:sans-serif; line-height:1.5;">
 
   <h4 style="margin-top:0; color:#222; font-size:1.5rem;">🎓 Collections</h4>
