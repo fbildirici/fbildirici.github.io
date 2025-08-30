@@ -4,9 +4,9 @@ width: 4
 date: 2021-09-12 00:01:00 +0800
 height: 295px
 images:
-- src: https://imgur.com/a/C059fEV
+- src: /assets/images/etc/curiouslabs.png
   title: The Curious Lab
-  desc: Research Company which. focused on AI
+  desc: Research Company which focused on AI
   link: https://otostopcununyzrehberi.substack.com
 ---
 
