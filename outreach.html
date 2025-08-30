@@ -6,6 +6,12 @@ container_class: container-xl
 ---
 
 <h1>Outreach</h1>
-<p>
-  This page highlights outreach activities, events, and community engagement.
-</p>
+<div class="cards">
+  {% for item in site.outreach %}
+    <section class="card">
+      <h2>{{ item.title }}</h2>
+      <p>{{ item.description }}</p>
+      <!-- Diğer alanlar eklenebilir -->
+    </section>
+  {% endfor %}
+</div>
