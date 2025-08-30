@@ -4,22 +4,35 @@ width: 8
 date: 2020-01-12 00:01:00 +0800
 ---
 
-<div style="width:70%; margin:auto; max-width:600px; max-height:400px;">
-  <img data-src="{{ '/assets/images/covers/cover1.jpg' | relative_url }}" 
-       class="lazy rounded-xl" 
-       style="width:100%; height:auto; max-height:400px; object-fit:cover;"
-       src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+---
+show: true
+width: 8
+date: 2025-01-01 00:00:00 +0800
+title: "Collections"
+---
 
-  <div class="card-img-overlay" style="overflow:auto; background:rgba(255,255,255,0.85); padding:1rem; max-height:400px;">
-    <h5 class="card-title">Image Note</h5>
-    <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-      Example code snippet:
-    </p>
-    <p class="card-text">
-      {% raw %}
-      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-xl&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-      {% endraw %}
-    </p>
-  </div>
+<div style="padding:1rem; background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); font-family:sans-serif; line-height:1.5;">
+
+  <h2 style="margin-top:0; color:#222; font-size:1.5rem;">🎓 Collections</h2>
+  <p style="margin-bottom:1rem;">
+  Curated highlights from my journey as a <strong>PhD(c) AI researcher</strong>
+  </p>
+
+  <h3 style="margin:0.5rem 0;">🎥 Talks</h3>
+  <ul style="padding-left:1.2rem; margin:0;">
+    <li><a href="https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ" target="_blank">Andrej Karpathy — Playlist</a></li>
+    <li><a href="https://youtu.be/9EN_HoEk3KY?si=Earb81imrPSU4CD8" target="_blank">Ilya Sutskever — MIT Lex Fridman</a></li>
+    <li><a href="https://www.youtube.com/watch?v=oIdnPeeSQnY" target="_blank">Yejin Choi — Unconfuse Me</a></li>
+  </ul>
+
+  <h3 style="margin:0.5rem 0;">📚 Books</h3>
+  <ul style="padding-left:1.2rem; margin:0;">
+    <li><em>Deep Learning</em> — Goodfellow, Bengio, Courville</li>
+  </ul>
+
+  <h3 style="margin:0.5rem 0;">🌐 Resources</h3>
+  <ul style="padding-left:1.2rem; margin:0;">
+    <li><a href="https://paperswithcode.com" target="_blank">Papers with Code</a></li>
+    <li><a href="https://distill.pub" target="_blank">Distill</a></li>
+  </ul>
 </div>
