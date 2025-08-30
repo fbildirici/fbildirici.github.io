@@ -5,9 +5,8 @@ date: 2020-01-12 00:01:00 +0800
 ---
 
 
-
 <div style="width:100%; max-width:1200px; margin:auto;">
-  <img data-src="{{ '/assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="{{ '/assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-70 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: auto; background: rgba(255,255,255,0.85); padding: 1rem;">
     <h5 class="card-title">Image Lazyload</h5>
