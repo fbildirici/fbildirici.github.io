@@ -10,6 +10,6 @@ date: 2020-01-12 00:01:00 +0800
     <p class="card-text">
     🎧 Turkey's most listened to, most beloved Artificial Intelligence Podcast
     </p>
-    <p class="card-text"><small><a href="https://open.spotify.com/show/1rCeqPdviUG61ucnpFDl6n?si=9bea8136c7194717" target="_blank">Podcasti Dinle</a></small></p>
+    <p class="card-text"><small><a href="https://open.spotify.com/show/1rCeqPdviUG61ucnpFDl6n?si=9bea8136c7194717" target="_blank">Listen on Spotify</a></small></p>
   </div>
 </div>
