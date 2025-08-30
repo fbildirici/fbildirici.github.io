@@ -2,7 +2,6 @@
 title: Entrepreneurship & Innovation
 description: Explore my entrepreneurial and software-driven ventures beyond academia.
 image: /assets/img/group3.png
----
 
 <p align="center">
   <img class="img-fluid rounded z-depth-1" src="/assets/img/group3.png" style="max-width: 100%;" />
@@ -21,7 +20,6 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
 - **HAVELSAN - R&D and Innovation Manager, Entrepreneurship Center Specialist**: Led R&D and innovation efforts, driving entrepreneurial initiatives.
 - **Board Membership and Advisory Roles in Startups (Blockchain and Gig Economy)**: Provided strategic guidance and insights as a board member and advisor.
 
----
 
 ### My Personal Library 📚
 
@@ -78,7 +76,6 @@ My journey in entrepreneurship and innovation spans founding startups, leading c
   </div>
 </div>
 
----
 
 ###### <sup>💡</sup> **Inspiring Quotes**
 
