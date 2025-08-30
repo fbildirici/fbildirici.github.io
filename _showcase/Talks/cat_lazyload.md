@@ -1,10 +1,9 @@
 ---
-show: false
+show: true
 width: 3
 date: 2019-01-12 00:01:00 +0800
 group: Talks
 ---
 <div>
-    <img data-src="{{ site.data.profile.portrait_url | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    <img data-src="{{ '/assets/images/etc/sakarya.jpeg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/etc/sakarya.jpeg' | relative_url }}">
 </div>
-
