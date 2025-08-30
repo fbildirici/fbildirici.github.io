@@ -6,6 +6,6 @@ group: Talk3
 ---
 <div>
 <a href="/assets/images/etc/fb4.jpg" target="_blank">
-    <img data-src="{{ '/assets/images/etc/cat4.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    <img data-src="{{ '/assets/images/etc/fb4.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 </a>
 </div>
