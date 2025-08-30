@@ -1,17 +1,14 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Optimizing Microservice Performance: A Software Configuration Management Changes and Time Series Analysis Framework"
+date:           2024-12-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "El-Cezeri Journal of Sciences"
+pub_date:       "2024"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  This study provides a comprehensive framework for analyzing and optimizing the performance impacts of configuration and release management processes in microservice-based software systems. Through advanced methodologies, including time-series modeling, regression analysis, anomaly detection, and optimization techniques, the research emphasizes the critical influence of configuration parameters.
+cover:          /assets/images/covers/tslstm.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Fatih Bildirici
 links:
-  Paper: https://www.cell.com
+  Paper: https://dergipark.org.tr/tr/pub/@fatihbildirici
 ---
