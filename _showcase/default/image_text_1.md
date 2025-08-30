@@ -8,7 +8,7 @@ date: 2020-01-12 00:01:00 +0800
 
   <h6 style="margin-top:0; color:#222; font-size:1.5rem;">🎓 Collections</h6>
   <p style="margin-bottom:1rem;">
-  Curated highlights from my journey as a <strong>PhD(c) AI researcher</strong>
+A selection of resources I’ve loved and learned from as a <strong>PhD(c) AI researcher</strong>.
   </p>
 
   <h7 style="margin:0.5rem 0;"> Talks</h7>
