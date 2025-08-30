@@ -1,27 +1,38 @@
 ---
-show: true
-width: 12
-date: 2024-08-30 00:01:00 +0800
-group: Collections
-title: My Favorite Collections
-description: A curated list of my favorite resources, videos, and articles.
+layout: default
+title: Showcase
+navbar_title: Showcase
+container_class: container-xl
 ---
 
-## My Favorite Collections
+<h1>Showcase</h1>
 
-### 📚 Useful Resources
-- [Distill.pub](https://distill.pub/) — Interactive machine learning articles
-- [ArXiv Sanity Preserver](http://www.arxiv-sanity.com/) — Trending AI papers
-- [Papers with Code](https://paperswithcode.com/) — ML papers & code
+<!-- Badges bölümü -->
+{% include widgets/badges.html %}
 
-### 🎥 Inspiring Videos
-- [Lex Fridman Podcast: Yann LeCun](https://www.youtube.com/watch?v=SGZDJhGGfrA)  
-- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=NJ0bFj4sTzI)
+<!-- Collections bölümü -->
+{% assign collections = site.showcase | where: "group", "Collections" %}
+{% for item in collections %}
+  <div class="mb-4">
+    {{ item.content | markdownify }}
+  </div>
+{% endfor %}
 
-### 📝 Recommended Articles
-- [The Bitter Lesson by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-
----
-
-<sub>Feel free to explore and suggest more!</sub>
+<!-- Diğer fotoğraf ve kartlar -->
+<div class="row">
+  {% assign others = site.showcase | where_exp: "item", "item.group != 'Collections'" %}
+  {% for item in others %}
+    <div class="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
+      <div class="card h-100 w-100">
+        {% if item.image %}
+          <img src="{{ item.image }}" class="card-img-top" alt="{{ item.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title">{{ item.title }}</h5>
+          <p class="card-text">{{ item.description }}</p>
+          {{ item.content | markdownify }}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
