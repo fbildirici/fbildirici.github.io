@@ -4,8 +4,7 @@ width: 12
 date: 2020-01-12 00:01:00 +0800
 ---
 
-
-<div style="width:90%; max-width:600px; max-height:400px; margin:auto;">
+<div style="width:70%; margin:auto; max-width:600px; max-height:400px;">
   <img data-src="{{ '/assets/images/covers/cover1.jpg' | relative_url }}" 
        class="lazy rounded-xl" 
        style="width:100%; height:auto; max-height:400px; object-fit:cover;"
