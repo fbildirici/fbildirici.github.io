@@ -26,6 +26,6 @@ A selection of resources I’ve loved and learned from as a <strong>PhD(c) AI re
   <h7 style="margin:0.5rem 0;"> Resources</h7>
   <ul style="padding-left:1.2rem; margin:0;">
     <li><a href="https://paperswithcode.com" target="_blank">Papers with Code</a></li>
-    <li><a href="https://distill.pub" target="_blank">Distill</a></li>
+    <li><a href="https://huyenchip.com/mlops" target="_blank">AI Roadmap by Chip Huyen</a></li>
   </ul>
 </div>
