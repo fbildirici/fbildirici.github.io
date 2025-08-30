@@ -9,9 +9,57 @@ container_class: container-xl
 <div class="cards">
   {% for item in site.outreach %}
     <section class="card">
+      {% if item.image %}
+        <img src="{{ item.image }}" alt="{{ item.title }}" style="width:100%; border-radius:8px; margin-bottom:1rem;" />
+      {% endif %}
       <h2>{{ item.title }}</h2>
       <p>{{ item.description }}</p>
-      <!-- Diğer alanlar eklenebilir -->
+      <div class="card-content">
+        {{ item.content | markdownify }}
+      </div>
     </section>
   {% endfor %}
 </div>
+
+<style>
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-top: 32px;
+}
+.card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 24px;
+  width: 100%;
+  max-width: 480px;
+  transition: box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.card h2 {
+  margin-top: 0;
+  font-size: 1.3em;
+}
+.card-content {
+  width: 100%;
+}
+@media (max-width: 900px) {
+  .cards {
+    flex-direction: column;
+    gap: 24px;
+  }
+  .card {
+    max-width: 100%;
+  }
+}
+</style>
