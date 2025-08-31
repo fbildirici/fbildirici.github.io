@@ -1,17 +1,12 @@
 ---
-title: Entrepreneurship & Innovation
-description: Explore my entrepreneurial and software-driven ventures beyond academia.
+title: The Curious Lab
 ---
 
-### Entrepreneurship & Innovation
-My journey in entrepreneurship and innovation spans founding startups, leading corporate initiatives, and mentoring future leaders, with a focus on EdTech, the gig economy, and cutting-edge technology.
 
-- **Hamdi Ulukaya Girişimi - Fellow**: Developed leadership and entrepreneurship skills through the prestigious fellowship program.
-- **Girişimcilik Vakfı - Fellow**: Gained deep insights and network connections in the startup ecosystem.
-- **Zorlu Holding Kurumiçi Girişimcilik Programı Parlak bi Fikir - Intrapreneur**: Secured funding and led intrapreneurial projects within Zorlu Holding.
-- **Future Innovation Leaders - Fellow**: Honed innovation leadership skills through this selective fellowship.
-- **McKinsey Forward - Country Lead & Research Fellow**: Led initiatives and research focused on innovation and leadership.
-- **Founder of Two Pre-Seed Funded Startups in EdTech and Gig Economy**: Launched and grew two successful startups with pre-seed investments.
-- **Entrepreneurship Mentorship with TÜBİTAK and Universities**: Mentored startups and innovators within TÜBİTAK and university programs.
-- **HAVELSAN - R&D and Innovation Manager, Entrepreneurship Center Specialist**: Led R&D and innovation efforts, driving entrepreneurial initiatives.
-- **Board Membership and Advisory Roles in Startups (Blockchain and Gig Economy)**: Provided strategic guidance and insights as a board member and advisor.
+<p align="center">
+  <img src="/assets/images/etc/feynmanlab.png" alt="The Curious Lab Logo" width="300">
+</p>
+
+
+**The Curious Lab** is a research laboratory and consultancy company founded by me **Fatih Bildirici PhD(c)**, inspired by Richard Feynman, working at the intersection of **Artificial Intelligence (AI)**, **Governance**, and **Society**. With a curiosity-driven approach, The Curious Lab aims to deliver innovative solutions in both academic and industrial projects. Our interdisciplinary team conducts research on the societal impacts of AI, ethical governance models, and the future of technology, while also providing strategic consultancy services to organizations. **Rooted in Feynman's spirit of exploration and discovery**, The Curious Lab is dedicated to advancing knowledge and shaping the future.
+
