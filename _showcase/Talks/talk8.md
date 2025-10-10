@@ -10,7 +10,7 @@ group: Talks
       data-src="{{ '/assets/images/etc/enx1.jpeg' | relative_url }}" 
       class="lazy rounded-xl"
       style="width: 120%; max-width: 120%; display: inline-block; margin: 0 auto;"
-      src="{{ '/assets/images/empty_800x580.png' | relative_url }}">
+      src="{{ '/assets/images/empty_600x400.png' | relative_url }}">
   </a>
   <p style="margin-top:0.5rem; font-size:0.9rem; color:#333; font-weight:500;">
     EnX Engineering X- Defense Industry Academy Explainable Artificial Intelligence
