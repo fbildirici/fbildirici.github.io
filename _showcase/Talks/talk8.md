@@ -1,6 +1,6 @@
 ---
 show: true
-width: 5
+width: 6
 date: 2020-10-10 00:01:00 +0800
 group: Talks
 ---
