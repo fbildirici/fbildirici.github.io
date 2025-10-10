@@ -1,6 +1,6 @@
 ---
 show: true
-width: 7
+width: 4
 date: 2020-01-12 00:01:00 +0800
 group: Talks
 ---
@@ -9,7 +9,7 @@ group: Talks
     <img 
       data-src="{{ '/assets/images/etc/enx1.jpeg' | relative_url }}" 
       class="lazy rounded-xl"
-      style="width: 150%; max-width: 150%; display: inline-block; margin: 0 auto;"
+      style="width: 120%; max-width: 120%; display: inline-block; margin: 0 auto;"
       src="{{ '/assets/images/empty_800x580.png' | relative_url }}">
   </a>
   <p style="margin-top:0.5rem; font-size:0.9rem; color:#333; font-weight:500;">
