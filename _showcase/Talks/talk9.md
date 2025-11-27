@@ -1,18 +1,12 @@
 ---
 show: true
-width: 6
+width: 3
 date: 2020-10-10 00:01:00 +0800
 group: Talks
 ---
-<div style="text-align:center;">
-  <a href="/assets/images/etc/gtu.jpeg" target="_blank">
-    <img 
-      data-src="{{ '/assets/images/etc/gtu.jpeg' | relative_url }}" 
-      class="lazy rounded-xl"
-      style="width: 100%; max-width: 220px; display: inline-block; margin: 0 auto;"
-      src="{{ '/assets/images/etc/gtu.jpeg' | relative_url }}">
-  </a>
+<div>
+  <img src="{{ '/assets/images/etc/gtu.jpeg' | relative_url }}" class="img-fluid rounded-xl" style="max-width:300px; width:100%; margin:0 auto; display:block;">
   <p style="margin-top:0.5rem; font-size:0.9rem; color:#333; font-weight:500;">
-    Gebze Technical University - AI Move 2025 Explainable Artificial Intelligence"
+    Gebze Technical University - AI Move 2025 Explainable Artificial Intelligence
   </p>
 </div>
