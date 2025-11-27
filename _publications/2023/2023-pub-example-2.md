@@ -1,18 +1,18 @@
 ---
-title:          "Decoding the Black Box: Explainable AI and the Echoes of Butlerian Jihad"
-date:           2024-11-07 00:01:00 +0800
+title:          "FLUXAI: Layered Explainability for Human-Centered Understanding via Feynman’s Approach"
+date:           2025-11-25 00:01:00 +0800
 selected:       false
-pub:            "STS Turkey 2025 Conference: Technotopias: Visions of the Past, Present, and Future"
+pub:            "4th Eurasian Conference on Human-Computer Interaction"
 pub_date:       "2025"
 #semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
 abstract: >-
 
- This study explores the ethical parallels between Explainable AI (XAI) principles, which aim to make AI decisions transparent and trustworthy, and the techno-social critique embodied by the Butlerian Jihad in Frank Herbert's Dune, highlighting how science fiction can inform real-world debates on technology governance and human autonomy
+ The need for explanations that are both technically correct and cognitively meaningful to a wide range of users has been highlighted by the rapid spread of Artificial Intelligence (AI) in high-stakes fields like healthcare, finance, and law.  The current Explainable AI (XAI) techniques, such as saliency maps, feature importance scores, and counterfactuals, are still primarily model-centered and frequently fall short in bridging the gap between technical transparency and human comprehension. 
 
 
-cover:          /assets/images/covers/stslogo.png
+cover:          /assets/images/covers/feynman.png
 authors:
   - Fatih Bildirici
 links:
-  Paper: https://ststurkiye.hypotheses.org/149
+  Paper: https://hci-e.com/images/HCI-E2025%20Program%20Final.pdf
 ---
