@@ -4,7 +4,7 @@ width: 4
 date: 2021-09-12 00:01:00 +0800
 height: 295px
 images:
-- src: /assets/images/etc/curiouslabs.png
+- src: /assets/images/etc/curious-mark-navy.svg
   link: https://otostopcununyzrehberi.substack.com
 ---
 

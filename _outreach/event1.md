@@ -4,7 +4,7 @@ title: The Curious Lab
 
 
 <p align="center">
-  <img src="/assets/images/etc/feynmanlab.png" alt="The Curious Lab Logo" width="300">
+  <img src="/assets/images/etc/curious-mark-navy.svg" alt="The Curious Lab Logo" width="300">
 </p>
 
 
