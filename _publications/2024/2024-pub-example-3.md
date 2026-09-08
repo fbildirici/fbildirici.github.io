@@ -1,5 +1,5 @@
 ---
-title:          "Open-source AI: An approach to responsible artificial intelligence development"
+title:          "Open-source AI: An Approach to Responsible Artificial Intelligence Development"
 date:           2024-12-10 00:01:00 +0800
 selected:       true
 pub:            "Jurnal Sosiologi Reflektif (JSR)"
@@ -15,4 +15,5 @@ authors:
   - Fatih Bildirici
 links:
   Journal: https://avesis.aybu.edu.tr/yayin/501c3950-584a-4926-98ee-ca7bb3392520/open-source-ai-an-approach-to-responsible-artificial-intelligence-development
+  Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NZptscAAAAJ&citation_for_view=2NZptscAAAAJ:2osOgNQ5qMEC
 ---

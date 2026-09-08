@@ -1,9 +1,9 @@
 ---
-title:          "FLUXAI: Layered Explainability for Human-Centered Understanding via Feynman’s Approach"
-date:           2025-11-25 00:01:00 +0800
+title:          "FLUXAI: Layered Explainability for Human-Centered Understanding via Feynman's Approach"
+date:           2026-05-21 00:01:00 +0300
 selected:       false
-pub:            "4th Eurasian Conference on Human-Computer Interaction"
-pub_date:       "2025"
+pub:            "8th International Congress on Human-Computer Interaction, Optimization and Robotic Applications"
+pub_date:       "2026"
 #semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
 abstract: >-
 
@@ -13,6 +13,8 @@ abstract: >-
 cover:          /assets/images/covers/feynman.png
 authors:
   - Fatih Bildirici
+  - Murat Karakus
+  - Rukiye Savran Kiziltepe
 links:
-  Paper: https://hci-e.com/images/HCI-E2025%20Program%20Final.pdf
+  Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NZptscAAAAJ&citation_for_view=2NZptscAAAAJ:_FxGoFyzp5QC
 ---
